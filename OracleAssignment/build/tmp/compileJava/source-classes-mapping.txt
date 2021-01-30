@@ -1,0 +1,16 @@
+com/oracle/assignment/model/Data.java
+ com.oracle.assignment.model.Data
+ com.oracle.assignment.model.Data$Position
+com/oracle/assignment/model/MobileFoodScheduleError.java
+ com.oracle.assignment.model.MobileFoodScheduleError
+com/oracle/assignment/client/SFGovClient.java
+ com.oracle.assignment.client.SFGovClient
+ com.oracle.assignment.client.SFGovClient$1
+com/oracle/assignment/model/Location.java
+ com.oracle.assignment.model.Location
+com/oracle/assignment/model/MobileFoodSchedule.java
+ com.oracle.assignment.model.MobileFoodSchedule
+com/oracle/assignment/ScheduleListBufferedReader.java
+ com.oracle.assignment.ScheduleListBufferedReader
+com/oracle/assignment/FoodTruckInventory.java
+ com.oracle.assignment.FoodTruckInventory
