@@ -1,0 +1,12 @@
+analyser/JavaCodeAnalyser.java
+ analyser.JavaCodeAnalyser
+analyser/Analyser.java
+ analyser.Analyser
+input/CodeFileReader.java
+ input.CodeFileReader
+analyser/LineByLineAnalyser.java
+ analyser.LineByLineAnalyser
+model/FileStats.java
+ model.FileStats
+CleartaxTest.java
+ CleartaxTest
